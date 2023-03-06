@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\SharpLessons\TryCatchAndTryParse\TryCatchAndTryParse\bin\Debug\TryCatchAndTryParse.exe.config
+C:\Users\Administrator\source\repos\SharpLessons\TryCatchAndTryParse\TryCatchAndTryParse\bin\Debug\TryCatchAndTryParse.exe
+C:\Users\Administrator\source\repos\SharpLessons\TryCatchAndTryParse\TryCatchAndTryParse\bin\Debug\TryCatchAndTryParse.pdb
+C:\Users\Administrator\source\repos\SharpLessons\TryCatchAndTryParse\TryCatchAndTryParse\obj\Debug\TryCatchAndTryParse.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SharpLessons\TryCatchAndTryParse\TryCatchAndTryParse\obj\Debug\TryCatchAndTryParse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\SharpLessons\TryCatchAndTryParse\TryCatchAndTryParse\obj\Debug\TryCatchAndTryParse.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SharpLessons\TryCatchAndTryParse\TryCatchAndTryParse\obj\Debug\TryCatchAndTryParse.exe
+C:\Users\Administrator\source\repos\SharpLessons\TryCatchAndTryParse\TryCatchAndTryParse\obj\Debug\TryCatchAndTryParse.pdb

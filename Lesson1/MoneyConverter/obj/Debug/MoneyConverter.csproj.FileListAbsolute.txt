@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\SharpLessons\Lesson1\MoneyConverter\bin\Debug\MoneyConverter.exe.config
+C:\Users\Administrator\source\repos\SharpLessons\Lesson1\MoneyConverter\bin\Debug\MoneyConverter.exe
+C:\Users\Administrator\source\repos\SharpLessons\Lesson1\MoneyConverter\bin\Debug\MoneyConverter.pdb
+C:\Users\Administrator\source\repos\SharpLessons\Lesson1\MoneyConverter\obj\Debug\MoneyConverter.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SharpLessons\Lesson1\MoneyConverter\obj\Debug\MoneyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\SharpLessons\Lesson1\MoneyConverter\obj\Debug\MoneyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SharpLessons\Lesson1\MoneyConverter\obj\Debug\MoneyConverter.exe
+C:\Users\Administrator\source\repos\SharpLessons\Lesson1\MoneyConverter\obj\Debug\MoneyConverter.pdb
